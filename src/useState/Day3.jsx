@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Day2 = () => {
+const Day3 = () => {
   return (
     <div>
-      <h2>Day2</h2>
+      <h3>Day3</h3>
     </div>
   )
 }
 
-export default Day2
+export default Day3

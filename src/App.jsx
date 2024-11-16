@@ -1,12 +1,15 @@
 import React from "react";
-import Day1 from "./useState/final/Day1";
-import Day2 from "./useState/final/Day2";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Day1 from "./useState/Day1";
+import Day2 from "./useState/Day2";
+import Day3 from "./useState/Day3";
 
 const App = () => {
   return (
     <>
       {/* <Day1 /> */}
-      <Day2 />
+      {/* <Day2 /> */}
+      <Day3 />
     </>
   );
 };
