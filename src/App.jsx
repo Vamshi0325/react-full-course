@@ -1,11 +1,13 @@
 import React from "react";
-import "./App.css";
+import Day1 from "./useState/final/Day1";
+import Day2 from "./useState/final/Day2";
 
 const App = () => {
   return (
-    <div className="App">
-      <h1>App.JS</h1>
-    </div>
+    <>
+      {/* <Day1 /> */}
+      <Day2 />
+    </>
   );
 };
 
